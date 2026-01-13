@@ -14,6 +14,7 @@ export default function Footer({ setActiveSection }: FooterProps) {
     { id: 'home', label: 'Home' },
     { id: 'about', label: 'About' },
     { id: 'programs', label: 'Programs' },
+    { id: 'ongoing-projects', label: 'Ongoing Projects' },
     { id: 'get-involved', label: 'Get Involved' },
     { id: 'contact', label: 'Contact' },
   ];

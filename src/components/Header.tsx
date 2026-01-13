@@ -13,6 +13,7 @@ export default function Header({ activeSection, setActiveSection }: HeaderProps)
     { id: 'home', label: 'Home' },
     { id: 'about', label: 'About' },
     { id: 'programs', label: 'Programs' },
+    { id: 'ongoing-projects', label: 'Ongoing Projects' },
     { id: 'get-involved', label: 'Get Involved' },
     { id: 'contact', label: 'Contact' },
   ];

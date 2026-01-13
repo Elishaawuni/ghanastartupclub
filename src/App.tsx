@@ -5,6 +5,7 @@ import About from './components/About';
 import CoreValues from './components/CoreValues';
 import TheoryOfChange from './components/TheoryOfChange';
 import Programs from './components/Programs';
+import OngoingProjects from './components/OngoingProjects';
 import GetInvolved from './components/GetInvolved';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -26,6 +27,9 @@ function App() {
         </section>
         <section id="programs">
           <Programs />
+        </section>
+        <section id="ongoing-projects">
+          <OngoingProjects />
         </section>
         <section id="get-involved">
           <GetInvolved />
